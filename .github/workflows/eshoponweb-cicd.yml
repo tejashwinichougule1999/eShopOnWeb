@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: ece48241-537b-40db-b56e-d451f2da71c8
-  WEBAPP-NAME: Tej_01_02
+  WEBAPP-NAME: Tej_01_02_2000
 
 
 jobs:
